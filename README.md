@@ -1,2 +1,7 @@
 # Space_Invaders
- Simple Space Invaders game Using Windows CMD
+Old School Space Invader Game.
+ 
+Playable in Windows CMD
+Made with UIKit Game Library
+Completed game with Menu,Sound and Scoreboard
+Scores are saved in File.
